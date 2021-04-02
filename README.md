@@ -13,11 +13,12 @@ A Colorado Board of Elections employee has requested a election audit of a recen
 6. The percentage of votes each candidate won.
 7. The winner of the election based on popular vote.
 
+The [code for this project](https://github.com/linb960/Election_Analysis/blob/main/PyPoll_Challenge.py) was written in python.
+
 ## Resources
 - Data Source: election_results.csv
 
 ## Results
-The [code for this project](https://github.com/linb960/Election_Analysis/PyPoll_Challenge.py) was written in python.
 
 ### Terminal Output
 
