@@ -16,13 +16,16 @@ A Colorado Board of Elections employee has requested a election audit of a recen
 The [code for this project](https://github.com/linb960/Election_Analysis/blob/main/PyPoll_Challenge.py) was written in python.
 
 ## Resources
-- Data Source: election_results.csv
+- Data Source: [election_results.csv}https://github.com/linb960/Election_Analysis/blob/main/Resources/election_results.csv
 
 ## Results
 
 ### Terminal Output
-
+The terminal output for the results is here:
+![Terminal Output](https://github.com/linb960/Election_Analysis/blob/main/analysis/election_analysis_terminal.png)
 ### Text file Output
+[The text file output for the results](https://github.com/linb960/Election_Analysis/blob/main/analysis/election_analysis.txt) can be seen in this screen shot below:
+
 
 ## Election Audit Summary
 
